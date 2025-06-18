@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working as a senior developer
 - 🌱 I’m currently learning how to apply machine learning with Cloud platforms and smart clusters 
-- 👯 I’m looking to collaborate on clould based projects.
+- 👯 I’m looking to collaborate on cloud based projects.
 - 📫 My email is lakshanc310@gmail.com
 
 
